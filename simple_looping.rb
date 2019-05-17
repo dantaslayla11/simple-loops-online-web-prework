@@ -24,9 +24,7 @@ def times_iterator(number_of_times)
   
 
 def while_iterator(number_of_times)
-  x = 7
-  while  true do 
-    puts x 
+  while 
   puts "Welcome to Flatiron School's Web Development Course!"
   
   # code your solution here using the "while" keyword
