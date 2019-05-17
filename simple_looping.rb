@@ -28,8 +28,9 @@ def while_iterator(number_of_times)
   while true
   if while_iterator >=8 
     break 
-  
+  end
   puts "Welcome to Flatiron School's Web Development Course!"
+  
   
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
