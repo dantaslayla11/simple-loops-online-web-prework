@@ -27,7 +27,7 @@ def while_iterator(number_of_times)
   while_iterator = 7
   while true
   if while_iterator >=8 
-    
+    break 
   
   puts "Welcome to Flatiron School's Web Development Course!"
   
